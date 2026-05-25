@@ -1,0 +1,7 @@
+name = "TOGLogging"
+uuid = "ca4dc87f-8132-4d7b-94ac-048606885fda"
+version = "1.0.0"
+authors = ["1m1 <imi@1m1.io>"]
+
+[deps]
+Logging = "56ddb016-857b-54e1-b83d-db4d58db5568"
